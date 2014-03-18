@@ -1,0 +1,9 @@
+{
+  "name": "reddit-demo",
+  "description": "demo for http://www.reddit.com/r/learnprogramming/comments/20qd1a/how_to_route_using_nodejs/",
+  "version": "0.0.1",
+  "private": true,
+  "dependencies": {
+    "express": "3.x"
+  }
+}
